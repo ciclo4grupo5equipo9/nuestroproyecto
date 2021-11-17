@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Store</string>
+    <string name="Welcome">Bienvenido</string>
+    <string name="Intro">Art Store es una aplicación ideal para exponer tus obras y ponerlas a la venta.
+        Sirve para darte a conocer y ponerte en contacto con compradores, que no es poco.
+        Si llegas a un acuerdo con un comprador, deberás acordar la forma de pago y envío, y ya sabes cuál es la mejor.</string>
+    <string name="Start">Empezar</string>
+    <string name="name_app_login">Art Store</string>
+    <string name="user_name">Usuario / email</string>
+    <string name="user_password">Contraseña</string>
+    <string name="btn_login">Ingresar</string>
+    <string name="textlogin">Login</string>
+    <string name="textregister">Registro</string>
+    <string name="fullname">Nombre Completo</string>
+    <string name="btn_register">Crear Cuenta</string>
+    <string name="link_register">Crear una cuenta</string>
+</resources>
