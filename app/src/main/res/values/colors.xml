@@ -4,6 +4,17 @@
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
 
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
     // dots inactive colors
     <color name="dark_one">#dcdcdc</color>
     <color name="dark_two">#dcdcdc</color>
@@ -26,5 +37,20 @@
         <item>@color/dark_two</item>
         <item>@color/dark_three</item>
     </array>
+
+    <color name="primaryColor">#00d9f2</color>
+    <color name="primaryLightColor">#6bffff</color>
+    <color name="primaryDarkColor">#00a7bf</color>
+    <color name="secondaryColor">#f2f200</color>
+    <color name="secondaryLightColor">#ffff57</color>
+    <color name="secondaryDarkColor">#bbc000</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+
+
+    <color name="green_dark">#062925</color>
+    <color name="green_normal">#044a42</color>
+    <color name="green_light">#3a9188</color>
+    <color name="green_light2">#b8e1dd</color>
 
 </resources>

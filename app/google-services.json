@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497756191411",
+    "project_id": "appstore-43687",
+    "storage_bucket": "appstore-43687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497756191411:android:a21883a0b5b613fdf1cec6",
+        "android_client_info": {
+          "package_name": "com.shubham.introslider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497756191411-19uvcrhnrahv9p9ujh4npd83u6fr59hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGvq4lSEP55IwkFjMtTuUUohaEHJhyv-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497756191411-19uvcrhnrahv9p9ujh4npd83u6fr59hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

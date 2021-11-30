@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Unique Art Store</string>
+    <string name="app_name">Art Store</string>
+    <string name="reg">Regístrate en ArtStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
 </resources>
