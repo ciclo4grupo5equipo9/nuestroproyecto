@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "65748292404",
+    "project_id": "artstore-7cb0a",
+    "storage_bucket": "artstore-7cb0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65748292404:android:75b44d92920bb7d9800b61",
+        "android_client_info": {
+          "package_name": "com.team9.token_arts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65748292404-e31h5vpr38e6fbc1b65qh4g0l80gm337.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANv45BsfvVEt4ItHi6osfP3Uer7tXFTTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65748292404-e31h5vpr38e6fbc1b65qh4g0l80gm337.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
