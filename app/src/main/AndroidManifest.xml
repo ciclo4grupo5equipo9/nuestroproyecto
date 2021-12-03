@@ -17,6 +17,10 @@
         android:roundIcon="@mipmap/ic_iconapp_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".ShoppingActivity"
+            android:exported="false" />
+
         <meta-data
             android:name="com.google.android.actions"
             android:resource="@xml/file_paths" />

@@ -20,17 +20,19 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="25dp"
+                android:layout_marginLeft="35dp"
+                android:layout_marginRight="20dp"
                 android:text="Condiciones de servicio: publicado 14/11/2021" />
 
             <TextView
                 android:id="@+id/textView6"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
                 android:layout_marginLeft="35dp"
                 android:layout_marginTop="25dp"
                 android:layout_marginRight="20dp"
-                android:layout_gravity="center_horizontal"
-                android:text="1.	Su relación con nosotros  Bienvenido a Art Store.  Art Store es una de las principales plataformas para comprar y vender arte de formato único. Usted está leyendo las condiciones de servicio, que rigen la relación y sirven como acuerdo entre usted y nosotros y establecen los términos y condiciones según los cuales usted puede acceder y utilizar la plataforma, servicios, aplicaciones, productos y demás contenidos en los que se indique que se ofrecen en virtud de estas Condiciones, denominados colectivamente los servicios.   Los Servicios son prestados por la sociedad que ofrece los Servicios en la región de América del Sur.  Su proveedor de Servicios puede variar si usted se traslada a otro país y continúa utilizando nuestros Servicios. Los Servicios se prestan para su uso privado y no comercial. A efectos de estas Condiciones, «usted» y «suyo» hacen referencia a usted como usuario de los Servicios.  Las Condiciones constituyen un acuerdo jurídicamente vinculante entre usted y nosotros. Por favor, léalas detenidamente y, si no está de acuerdo con ellas, no se registre y no acceda a ninguno de los Servicios ni los utilice. " />
+                android:text="1.	Bienvenido a Art Store. Su relación con Art Store: en adelante nosotros. Somos una de las principales plataformas para comprar y vender arte de formato único. Usted está leyendo las condiciones de servicio, que rigen la relación y sirven como acuerdo entre usted y nosotros y establecen los términos y condiciones según los cuales usted puede acceder y utilizar la plataforma, servicios, aplicaciones, productos y demás contenidos en los que se indique que se ofrecen en virtud de estas Condiciones, denominados colectivamente los servicios.   Los Servicios son prestados por la sociedad que ofrece los Servicios en la región de América del Sur.  Su proveedor de Servicios puede variar si usted se traslada a otro país y continúa utilizando nuestros Servicios. Los Servicios se prestan para su uso privado y no comercial. A efectos de estas Condiciones, «usted» y «suyo» hacen referencia a usted como usuario de los Servicios.  Las Condiciones constituyen un acuerdo jurídicamente vinculante entre usted y nosotros. Por favor, léalas detenidamente y, si no está de acuerdo con ellas, no se registre y no acceda a ninguno de los Servicios ni los utilice." />
 
             <TextView
                 android:id="@+id/textView10"

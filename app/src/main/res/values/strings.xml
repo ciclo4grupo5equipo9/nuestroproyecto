@@ -4,6 +4,12 @@
     <string name="reg" translatable="false">Regístrate en ArtStore</string>
     <string name="todo" translatable="false">TODO</string>
     <string name="btnCamara" translatable="false">btnCamara</string>
+    <string name="confirmacion" translatable="false">Confirma tu compra</string>
+    <string name="comprar" translatable="false">comprar</string>
+    <string name="rbbitcoin" translatable="false">Bitcoin</string>
+    <string name="rbpaypal" translatable="false">paypal</string>
+    <string name="rbcreditcard" translatable="false">credit card</string>
+    <string name="rbefecty" translatable="false">efecty</string>
     <!-- TODO: Remove or change this placeholder text -->
 
 
