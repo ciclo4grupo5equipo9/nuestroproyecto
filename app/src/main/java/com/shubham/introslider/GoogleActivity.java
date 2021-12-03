@@ -2,6 +2,7 @@ package com.shubham.introslider;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.os.Environment;
 import android.view.View;
 import android.widget.EditText;
 
@@ -10,6 +11,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.gms.auth.api.phone.SmsRetriever;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
+
+import java.io.File;
+import java.io.IOException;
 
 public class GoogleActivity extends AppCompatActivity {
 
@@ -29,6 +33,7 @@ public class GoogleActivity extends AppCompatActivity {
         Object mGoogleSignInClient = GoogleSignIn.getClient(this);
 
     }
+
 
 
 }

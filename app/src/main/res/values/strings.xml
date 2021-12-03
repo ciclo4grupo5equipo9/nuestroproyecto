@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Art Store</string>
-    <string name="reg">Regístrate en ArtStore</string>
+    <string name="reg" translatable="false">Regístrate en ArtStore</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="btnCamara" translatable="false">btnCamara</string>
     <!-- TODO: Remove or change this placeholder text -->
 
 

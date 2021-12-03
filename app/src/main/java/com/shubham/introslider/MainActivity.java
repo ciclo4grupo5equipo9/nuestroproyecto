@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     private int[] layouts;
     private TextView[] dots;
     private MyViewPagerAdapter viewPagerAdapter;
+    
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

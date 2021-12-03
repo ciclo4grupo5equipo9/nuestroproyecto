@@ -3,6 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1671875" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/activity_google.xml" value="0.1" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/activity_poly.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/activity_splash.xml" value="0.125" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/activity_terminus.xml" value="0.125" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/fragment_second.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/fragment_third.xml" value="0.19384057971014493" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/intro_one.xml" value="0.4" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/intro_three.xml" value="0.4" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/intro_two.xml" value="0.264" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/layout/view_dialog_box.xml" value="0.125" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/menu/bottom_navigation.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master - copia (2)/app/src/main/res/mipmap-anydpi-v26/ic_index_round.xml" value="0.1671875" />
         <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master/app/src/main/res/layout/activity_google.xml" value="0.1" />
         <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master/app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="..\:/Users/JuanD/AndroidStudioProjects/IntroSlider-master/app/src/main/res/layout/activity_main.xml" value="0.17300724637681159" />
